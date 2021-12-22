@@ -1,3 +1,4 @@
+package Practice;
 public class Num {
     // データ型 整数 少数
     public static void main(String[] args) {
