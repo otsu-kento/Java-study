@@ -6,7 +6,9 @@ public class Main {
         Zenhan.doWarusa();
         
         Zenhan.doTogame();
+
         Practice.comment.Kouhan.callDeae();
+        
         Practice.comment.Kouhan.showMondokoro();
     }
 }
