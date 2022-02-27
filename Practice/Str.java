@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 public class Str {
     public static void main(String[] args) {
         // char 文字1つ シングルコーテーションでくくる

@@ -1,4 +1,4 @@
-package Exercise;
+package exercise;
 
 public interface Thing {
     double getWeight();
