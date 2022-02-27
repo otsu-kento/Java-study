@@ -1,5 +1,5 @@
-package practice;
-import practice.comment.Zenhan;
+package Practice;
+import Practice.comment.Zenhan;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -7,8 +7,8 @@ public class Main {
         
         Zenhan.doTogame();
 
-        practice.comment.Kouhan.callDeae();
+        Practice.comment.Kouhan.callDeae();
         
-        practice.comment.Kouhan.showMondokoro();
+        Practice.comment.Kouhan.showMondokoro();
     }
 }

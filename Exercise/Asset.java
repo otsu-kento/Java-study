@@ -1,4 +1,4 @@
-package exercise;
+package Exercise;
 
 public abstract class Asset {
     String name;

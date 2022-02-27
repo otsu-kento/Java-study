@@ -1,4 +1,4 @@
-package practice;
+package Practice;
 public class Arrs {
     public static void main(String[] args) {
         // 宣言と代入を別々に 2行目のカギカッコの中には要素数を書く

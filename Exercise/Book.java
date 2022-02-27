@@ -1,4 +1,4 @@
-package exercise;
+package Exercise;
 
 public class Book extends TangibleAsset{
     String isbn;

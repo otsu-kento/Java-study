@@ -1,4 +1,4 @@
-package exercise;
+package Exercise;
 
 public class Computer extends TangibleAsset {
     String makerName;

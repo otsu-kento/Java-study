@@ -1,4 +1,4 @@
-package practice.comment;
+package Practice.comment;
 
 public class Kouhan {
     public static void callDeae() {

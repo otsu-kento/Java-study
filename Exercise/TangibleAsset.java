@@ -1,4 +1,4 @@
-package exercise;
+package Exercise;
 
 public abstract class TangibleAsset extends Asset implements Thing{
     String color;

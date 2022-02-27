@@ -1,4 +1,4 @@
-package practice;
+package Practice;
 public class Calc {
     public static void main(String[] args) {
         int a = 10; int b = 2;
